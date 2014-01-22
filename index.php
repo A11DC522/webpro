@@ -12,3 +12,4 @@ if (file_exists($cfile)) {
     $controller = new $cname();
     $controller->$aname();
 }
+123
